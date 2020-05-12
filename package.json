@@ -1,0 +1,19 @@
+{
+  "name": "berryme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahedurrahman125/BerryMe.git"
+  },
+  "author": "'Md Jahedur Rahman'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahedurrahman125/BerryMe/issues"
+  },
+  "homepage": "https://github.com/jahedurrahman125/BerryMe#readme"
+}
