@@ -9,5 +9,27 @@ h1{
     size: 90%;
 }
 #map{
+    border: solid 2px;
+    padding: 3px;
     height: 60vh;
 }
+#floating-panel {
+    position: absolute;
+    top: 30px;
+    left: 30%;
+    z-index: 5;
+    background-color:transparent;
+   
+    text-align: center;
+    font-family: "Roboto", "sans-serif";
+    line-height: 30px;
+    padding-left: 10px;
+}
+a{
+    color: #B5CDA3;
+    text-decoration: none;
+}
+footer{
+    color: #a3accd;
+}
+
