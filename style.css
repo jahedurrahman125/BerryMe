@@ -1,0 +1,13 @@
+html{
+    background-color: #323334;
+    text-align: center;
+    
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    color: #B5CDA3;
+    size: 90%;
+}
+#map{
+    height: 60vh;
+}
